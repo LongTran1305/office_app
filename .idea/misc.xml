@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/longtran_win/AndroidStudioProjects/office_app/app/src/main/res/drawable/bg_left_right_border.xml" value="0.196" />
         <entry key="..\:/Users/longtran_win/AndroidStudioProjects/office_app/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/longtran_win/AndroidStudioProjects/office_app/app/src/main/res/layout/layout_bottom_calendar_view.xml" value="0.29717180244829045" />
       </map>
     </option>
   </component>
