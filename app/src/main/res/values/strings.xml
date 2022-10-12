@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">office_app</string>
+    <string name="from_date">Từ ngày</string>
+    <string name="to_date">Đến ngày</string>
+    <string name="choose_date">Chọn ngày</string>
+    <string name="search_filter">Bộ lọc tìm kiếm</string>
+    <string name="choose_status">Chọn trạng thái</string>
+    <string name="choose_unit">Chọn đơn vị xử lý</string>
+    <string name="choose_unit_approve">Chọn đơn vị ban hành</string>
+    <string name="text_keyword">Nhập từ khóa</string>
+    <string name="text_profile_number">Nhập số hồ sơ</string>
 </resources>
